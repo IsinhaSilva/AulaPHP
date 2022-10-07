@@ -1,0 +1,12 @@
+.tamanhoFormulario{
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.button{
+    text-align: right;
+}
+.tamanhoFormulario .listarProduto .button{
+    width: 40px;
+}
